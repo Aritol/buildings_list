@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1>Building numbers validator</h1>
     <validator-input />
     <buildings-list />
   </div>
